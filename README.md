@@ -1,2 +1,2 @@
-# mother-chat
+# earthbound-chat
 
